@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Fake Profile Detection System",
+    "desc": "Developed a website called the Fake Profile Detection System to address the issue of identifying fake profiles on platforms like Instagram.",
+    "image": "fake",
+    "category": "web",
+    "links": {
+      "view": "https://drive.google.com/file/d/1wso3ryEOk5v_VwYy_0BBwujuOauzmFhi/view?usp=drive_link",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Amazon-clone",
+    "desc": "It's a simple Amazon frontend clone.",
+    "image": "amazon",
+    "category": "web",
+    "links": {
+      "view": "https://nizamudhecha.github.io/Amazon-clone/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "to-do-list",
+    "desc": "it is simple to-do-list web created using HTML CSS JS",
+    "image": "to-do-list",
+    "category": "web",
+    "links": {
+      "view": "https://nizamudhecha.github.io/to-do-list/",
+      "code": "https://github.com/nizamudhecha/to-do-list"
+    }
+  },
+  {
+    "name": "rock-paper-scissors",
+    "desc": "it is simple rock-paper-scissors web game using HTML CSS JS",
+    "image": "rock-paper-scissors",
+    "category": "web",
+    "links": {
+      "view": "https://nizamudhecha.github.io/rock-paper-scissors/",
+      "code": "https://github.com/nizamudhecha/rock-paper-scissors"
+    }
+  }
+]
